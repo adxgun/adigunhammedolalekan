@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Hammed Adigun. I am Software Engineer based in London.
+
 <!--
 **adigunhammedolalekan/adigunhammedolalekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
