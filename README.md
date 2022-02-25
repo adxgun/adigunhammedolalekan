@@ -10,7 +10,7 @@ I love hacking on projects on the side. In the past, I've worked on projects lik
 * [csail.sh](https://www.github.com/adigunhammedolalekan/csail.sh) - a simple way to deploy and scale docker containers in a kubernetes cluster. 
 * [registry-auth](https://github.com/adigunhammedolalekan/registry-auth) - a library to aid in implementing authentication and authorization system for private docker registries.
 
-* And, [more](https://github.com/adigunhammedolalekan).
+* And, [more](https://github.com/adigunhammedolalekan?tab=repositories).
 
 I also write at [Hammed Adigun's Blog](https://lekan.wtf)
 
