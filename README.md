@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm Hammed, a Software Engineer currently living and working in the United Kingdom. I specialize in designing and building scalable backend systems. I love working with Golang, JVM based languages, Typescript, Linux containers, and cloud-native technologies.
+I'm Hammed, a Software Engineer based in the UK, I specialize in designing and building of scalable backend systems. My expertise includes Golang, JVM languages, Typescript, SQL and non-SQL databases and cloud-native technologies.
 
-I currently work at [Vega](https://vega.investments) as a backend engineer, I am a core member of the team and I am helping to develop the operating system for private wealth management. We’re using cutting edge technologies like Java22, Typescript, Docker and Kubernetes etc to power a highly efficient and robust platforms for our clients.
+Currently, I work at [Lemfi](https://lemfi.com) as a Backend Engineer, we're building **International Payments for everyone**. We leverage Golang and cloud technologies to support payments for millions across continents.
 
-Prior to that, I was working at [Goldman Sachs International in London](https://www.goldmansachs.com/), where I was helping to build high quality customer relationship management tools for Goldman's Investment Bankers throughout the world. Using Java, Python, AWS and cloud-native techs, we’re able to deliver modern, scalable and robust systems for our clients.
+Previously, I was a backend engineer at [Vega](https://vega.investments), developing an OS for private wealth management using Java22, Typescript, Docker, and Kubernetes to create efficient, robust platforms.
 
-I love hacking on projects on the side. In the past, I've worked on projects like
+Before that, I worked at [Goldman Sachs International in London](https://www.goldmansachs.com/), where I developed high-quality CRM tools for global Investment Bankers using Java, Python, AWS, and cloud technologies for scalable, modern systems.
+
+I also enjoy side projects and have previously worked on projects like
 
 - [csail.sh](https://www.github.com/adigunhammedolalekan/csail.sh) - a simple way to deploy and scale docker containers in a kubernetes cluster.
 - [registry-auth](https://github.com/adigunhammedolalekan/registry-auth) - a library to aid in implementing authentication and authorization system for private docker registries.
@@ -14,7 +16,7 @@ I love hacking on projects on the side. In the past, I've worked on projects lik
 
 I also write at [Hammed Adigun's Blog](https://lekan.wtf/)
 
-When I am not at work or hacking something on my computer, I love playing football and exploring new restaurants :stuck_out_tongue:
+When I am not at work or hacking something on my computer, I love playing football, listening to music(Afrobeats and Burna boy) and exploring new restaurants :stuck_out_tongue:
 
 ## Links
 
