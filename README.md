@@ -2,9 +2,7 @@
 
 I'm Hammed, a Software Engineer based in the UK, I specialize in designing and building of scalable backend systems. My expertise includes Golang, JVM languages, Typescript, SQL and non-SQL databases and cloud-native technologies.
 
-Currently, I work at [Lemfi](https://lemfi.com) as a Backend Engineer, we're building **International Payments for everyone**. We leverage Golang and cloud technologies to support payments for millions across continents.
-
-Previously, I was a backend engineer at [Vega](https://vega.investments), developing an OS for private wealth management using Java22, Typescript, Docker, and Kubernetes to create efficient, robust platforms.
+I worked as a backend engineer at [Vega](https://vega.investments), developing an OS for private wealth management using Java22, Typescript, Docker, and Kubernetes to create efficient, robust platforms.
 
 Before that, I worked at [Goldman Sachs International in London](https://www.goldmansachs.com/), where I developed high-quality CRM tools for global Investment Bankers using Java, Python, AWS, and cloud technologies for scalable, modern systems.
 
